@@ -1,1 +1,1 @@
-# Study_Team-E
+# Algorithm_Study_Team-E
